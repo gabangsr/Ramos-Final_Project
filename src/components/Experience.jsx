@@ -1,6 +1,6 @@
 import React from 'react';
 import video1 from '../Images/SocSci-Intro.mp4';
-import video2 from '../Images/Cordi101-IBALOI.mp4';
+import video2 from '../Images/BKJa.mp4';
 import pshop1 from '../Images/Me&I.png';
 import pshop2 from '../Images/Backstabbe.png';
 import photo1 from '../Images/Japan.png';
