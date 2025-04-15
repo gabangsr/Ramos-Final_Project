@@ -97,3 +97,21 @@ button:focus-visible {
     border-color: #555555;
   }
 }
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none; 
+  scrollbar-width: none;   
+}
+
+.hover-expand {
+  display: inline-block;
+  transition: transform 0.3s ease-in-out;
+}
+
+.hover-expand:hover {
+  transform: scale(1.1);
+}
+
